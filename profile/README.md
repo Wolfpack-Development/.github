@@ -90,24 +90,12 @@
     <footer class="footer">
       <div class="social">
         <div class="links">
-          <a href="https://discord.gg/TFs73nEZnQ" target="_blank">
-          <div class="f-li">
-            <i class="fa-brands fa-discord icon"></i>
-            <h3>Discord</h3>
-          </div>
+          <a href="https://discord.gg/TFs73nEZnQ" target="_blank">Discord
           </a>
-          <a href="https://www.tiktok.com/@wolfpack_das_rudel" target="_blank">
-          <div class="f-li" >
-            <i class="fa-brands fa-tiktok icon"></i>
-            <h3>TikTok</h3>
-          </div>
+          <a href="https://www.tiktok.com/@wolfpack_das_rudel" target="_blank">TikTok
         </a>
           <a href="#">
-          <div class="f-li" href="#">
-            <a href="https://www.instagram.com/wolfpackrudel/" target="_blank">
-            <i class="fa-brands fa-instagram icon"></i>
-            <h3>Instagram</h3>
-          </div>
+            <a href="https://www.instagram.com/wolfpackrudel/">Instagram
         </a>
         </div>
       </div>
