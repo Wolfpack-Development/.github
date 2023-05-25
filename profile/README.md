@@ -62,7 +62,7 @@
              diese umfassen Designs, Minecraft Plugins und personalisierte Discord Bots.</p>
          </div>
          
-       </section>
+</section>
 
 </section>
         <section class="section stats" id="stats">
