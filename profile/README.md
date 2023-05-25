@@ -1,21 +1,10 @@
-<!DOCTYPE html>
-<html lang="de">
-<body id="home">
-
 <header class="header active" data-header="">
   <div class="container">
     <h1> <a href="#" class="logo">Wolfpack</a> </h1>
     </div>
 </header>
-    <main>
-        <section class="hero">
-         <br><br><br>
-         <div class="inner-section">
-           <h4>Ein Discord Server, der mehr ist als ein Chatraum.</h4>
-          </div>
-
-</body>
-</html>
+      <h4>Ein Discord Server, der mehr ist als ein Chatraum.</h4>
+      <img src="https://wolfpack-rudel.eu/HH.jpg" alt="Wolfpack">
 
 <!--
 
