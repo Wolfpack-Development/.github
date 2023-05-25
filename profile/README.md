@@ -18,11 +18,7 @@
         </li>
       </ul>
     </nav>
-    <form action="https://discord.gg/hRGDbFGJ"> <button class="btn btn-secondary">Join</button>
-    </form>
-    <button class="nav-toggle-btn" aria-label="Toggle menu" data-nav-toggle-btn="">
-      <i class="fa-solid fa-bars" style="color: #ffffff;" name="menu-outline" class="menu-icon md hydrated" role="img" aria-label="menu outline"></i>
-    </button> </div>
+    </div>
 </header>
     <main>
         <section class="hero">
