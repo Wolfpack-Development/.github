@@ -4,7 +4,7 @@
     </div>
 </header>
       <h4>Ein Discord Server, der mehr ist als ein Chatraum.</h4>
-      <img src="https://wolfpack-rudel.eu/HH.jpg" alt="Wolfpack">
+      <img src="https://wolfpack-rudel.eu/HH.jpg" target-"blank alt="Wolfpack">
 
 <!--
 
