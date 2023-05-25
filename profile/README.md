@@ -115,11 +115,9 @@
       <div class="footer-bottom">
         <div class="container">
           <p class="copyright"> © 2023 <span class="span">Luixz & Vrexdz</span>. Alle
-            Rechte vorbehalten von <a href="#" class="copyright-link">Wolfpack</a>
-          </p>
-          <p><a href="https://wolfpack-rudel.eu/datenschutzerklaerung.html" target="_blank">Datenschutzerklärung</a></p>
-          <p><a href="https://wolfpack-rudel.eu/impressum.html" target="_blank">impressum</a></p>
-          <b class="com"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" target="_blank">INFO!</a></b>
+            Rechte vorbehalten von <a href="https://wolfpack-rudel.eu" class="copyright-link">Wolfpack</a>
+          </p><a href="https://wolfpack-rudel.eu/datenschutzerklaerung.html" target="_blank">Datenschutzerklärung</a>
+          <a href="https://wolfpack-rudel.eu/impressum.html" target="_blank">impressum</a>
         
 </div>
     </footer>
