@@ -1,6 +1,6 @@
 <header class="header active" data-header="">
   <div class="container">
-    <h1> <a href="#" class="logo" style="text-align:center">Wolfpack</a> </h1>
+    <h1> <a href="#" class="logo" style="text-align:center"><center>Wolfpack</center></a> </h1>
     </div>
 </header>
       <h4>Ein Discord Server, der mehr ist als ein Chatraum.</h4>
